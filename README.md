@@ -8,8 +8,8 @@ demonstrate the language, standard libraries, and tools.
 ## Clone the project
 
 ```
-$ git clone https://go.googlesource.com/example
-$ cd example
+$ git clone https://github.com/darrentan0512/carpool-auth.git
+$ cd carpool-auth
 ```
 https://go.googlesource.com/example is the canonical Git repository.
 It is mirrored at https://github.com/golang/example.
